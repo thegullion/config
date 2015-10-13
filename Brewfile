@@ -1,0 +1,8 @@
+tap 'caskroom/cask'
+tap 'homebrew/bundle'
+brew 'openssl'
+brew 'wget'
+brew 'caskroom/cask/brew-cask'
+cask 'vagrant'
+cask 'vlc'
+cask 'virtualbox'
